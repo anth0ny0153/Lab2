@@ -12,13 +12,13 @@ namespace Lab2
         {
             while (true)
             {
-            //declare variables
+            //declare  variables
                 double length = 0;
                 double width = 0;
                 double area = 0;
                 double perimeter = 0;
                 String userInput;
-                //get user input
+                //get user input 
                 
                 Console.WriteLine("Please enter the length of the room");
                 userInput = Console.ReadLine();
